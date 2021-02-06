@@ -40,3 +40,9 @@ body
     font-size: 30px;
     text-align: center;
 }
+
+#container h2
+{
+    font-size: 23px;
+    text-align: left;
+}
