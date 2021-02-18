@@ -6,7 +6,7 @@ body
     font-family: "Arial";
     font-size: 20px;
     margin: 0;
-    padding: 20;
+    padding: 0;
 }
 
 #cabecera
@@ -62,5 +62,20 @@ body
 #post 
 {
     background: white;
-    padding: 2em;
+    padding: 1em;
+}
+
+#footer
+{
+    padding: 1em;
+    font-size: 13.5px;
+    text-align: center;
+    color:rgb(83, 83, 83);
+    background: white;
+}
+
+#sdg
+{
+    width:28px; 
+    vertical-align: middle;
 }
